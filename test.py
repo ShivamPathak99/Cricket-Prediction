@@ -2,6 +2,7 @@ import streamlit as st
 import time 
 import pandas as pd
 import joblib
+import sklearn
 
 # Function to preprocess input data
 def preprocess_input(data):
