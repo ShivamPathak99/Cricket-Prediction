@@ -26,15 +26,20 @@ After an in-depth analysis of different models, the Random Forest emerged as the
 ## Stages of the Project
 
 ### 1. Data Collection
-
 We gathered data about players and their historical records from espncricinfo using pandas dataframe methods like `pd.read_html()` and inspect method extraction through Chrome. Weather data was collected using the openweathermap.org API.
 
 ### 2. Data Engineering
 
 This crucial phase involved organizing and enhancing the data. Techniques like feature selection, one-hot encoding for weather and opposition teams, frequency encoding for the ground (pitch), and correlation matrix for feature selection were employed. Cleaning up null values and transforming attribute types were also part of this phase.
+# Feature Importance 
+* **Correlation Matrix**
+  <p align="center">
+  <a href="https://postimg.cc/4Yy50Bvh" target="_blank">
+    <img src="https://i.postimg.cc/t4tMYcYD/plot-2.png" alt="Correlation Chart">
+  </a>
+</p>
 
 ### 3. Model Selection and Prediction
-
 With 40 Random Forest models in action, we predicted the performance of Indian batsmen for various metrics such as 4s, 6s, 100s, and 50s. The results were not just acceptable but impressive, providing valuable insights into player capabilities.
 
 ### 4. Reiterating
