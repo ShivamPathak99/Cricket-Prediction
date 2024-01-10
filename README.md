@@ -5,6 +5,14 @@ Indian Cricket Team Prediction for World Cup ODI
 
 Welcome to the Cricket Prodigy Predictor repository! 🏏
 
+## Explore the App
+
+Check out our prediction model in action! Visit the [Cricket Prodigy Predictor App](https://cricket-prediction.streamlit.app/) and witness the magic of data science unfolding.
+
+Feel free to explore, analyze, and enjoy the exciting world of cricket predictions! 🚀
+
+*Note: For more detailed insights and technical details, refer to the project's Jupyter notebooks and scripts in the repository.*
+
 ## Project Overview
 
 In the thrilling world of cricket, where every ball can change the course of a match, we present to you the Cricket Prodigy Predictor. This data science project focuses on forecasting the performance of batsmen in One Day International (ODI) matches, especially in the high-stakes arena of the Cricket World Cup.
@@ -60,11 +68,5 @@ Different scores are evaluated based on consistency, which is a function of stri
 </p>
 
 
-## Explore the App
 
-Check out our prediction model in action! Visit the [Cricket Prodigy Predictor App](https://cricket-prediction.streamlit.app/) and witness the magic of data science unfolding.
-
-Feel free to explore, analyze, and enjoy the exciting world of cricket predictions! 🚀
-
-*Note: For more detailed insights and technical details, refer to the project's Jupyter notebooks and scripts in the repository.*
 
